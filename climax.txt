@@ -78,6 +78,40 @@ forças maiores decidam seu destino.
 
 Parágrafo 3 - O traído caindo na própria armadilha:
     sugestao: prender os dois no elevador porque isso pode ser o gancho para os dois descobrirem o universo caotico
-
+    mais uma sugestão : eles não conseguem ver o display do elevador que mostra o andar atual (talvez o Sam quebrou com uma tacada) e alguém em cima chamou o elevador.
 
 Parágrafo 4 - Descoberta do universo caótico:
+
+Até que o elevador finalmente estaciona. Sam e Chris fixam seus olhares na porta cinza - preenchida por pequenos riscos, espalhados por toda a superfície - e, por um momento, 
+toda a fúria que circulava no sangue de ambos simplesmente sumia. Na verdade , durante o curto intervalo, só restara a curiosidade, todos os outros sentimentos esvaiam-se.
+A porta do elevador abre lentamente - na velocidade usual, porém o momento era capturado em câmera lenta, queriam saber quem, ou o que, havia chamado o elevador para 
+o último andar do prédio. Não restava muita esperança, mas manter a positividade era necessário em situações como essa.
+
+-- AAAAAGGGHHH!!! -- Um grito aflito e impetuoso ecoa no corredor.
+
+O final do grito estava sincronizado com o abrir da porta, assim que o grito parava de ecoar, a porta estava totalmente aberta e era possível ver uma cena amedrontadora.
+A garra de uma criatura perfurava o peito de uma pessoa desconhecida, era possível ver um rosto vazio, as expressões já haviam sumido, não restara nada além da feição anterior,
+aterrorizada. Chris se manteve estático, mas Sam não. Sentia que não podia deixar o monstro ter a chance de repetir o ataque em algum deles. 
+
+-- SAM NÃO! -- O ex-amigo ainda se preocupava com Sam, tinha se arrependido do que havia feito mais cedo, deixara o medo agir sobre a razão.
+
+Sam acertou uma tacada perfeita. A cabeça da criatura foi lançada próxima a um óculos quebrado, devia pertencer à pessoa desconhecida, pessoa essa que caia junto ao corpo da
+criatura no chão. Sam lembrava mais uma vez do seu pai. Era como se tivesse acertado um home run. Essa tacada o enchia de determinação. Chris corria para checar o corpo do 
+homem, já sem sinal de vida aparente. Não havia nada muito interessante, uma camisa vermelha - vermelha de sangue, a cor original flutuava entre preto e um azul muito escuro -,
+uma calça jeans escura, levemente desbotada e um tênis all star preto.
+
+Sam acompanhou a trajetória da cabeça da criatura, mas algo o chamou atenção, uma porta entreaberta no meio do corredor. Ele já não confiava tanto assim em Chris,
+mas sabia que poderia precisar de ajuda, então chamou a atenção do amigo e sinalizou a porta. Ambos caminharam rumo à porta, em passos rápidos e largos, ainda deviam resolver
+seus assuntos passados, mas a ansiedade os unia e guiava. Podiam encontrar a resposta para todo esse caos, assim como podiam encontrar várias criaturas, mas a potencial 
+recompensa ofuscava uma eventual desavença.
+
+Sam abriu a porta cautelosamente e deparou-se com um quarto escuro, iluminado apenas pela luz da tela de um monitor curvo ultrawide. Logo abaixo estava posicionado um computador,
+era possível escutar um ruído incômodo vindo das suas ventoinhas e o que pareciam ser faíscas saindo do gabinete. Também avistou uma página aberta no navegador, um site cuja 
+logo adotava o formato de um gato, a página continha algumas informações, mas Sam não sabia dizer o que significavam. 
+
+Chris veio logo atrás, viu Sam observando a tela, uma expressão de confusão ocupava o seu rosto. Chris então analisa o monitor, sabia reconhecer uma tela de qualidade, 
+afinal crescera jogando no computador e atualmente estava estudando para desenvolver o seu próprio jogo. Imediatamente reconheceu aquele ambiente, uma típica página do github.
+A página listava as branches de um repositório nomeado "Look Outside", havia apenas uma única branch ativa além da main:
+-- "feat : adiciona transformação (talvez com bug)"
+
+-- SAM, EU JÁ ENTENDI TUDO!! -- Exclamou Chris, ao descobrir que o bug, de alguma forma, havia se espalhado para o mundo real.
